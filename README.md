@@ -1,10 +1,9 @@
-<img src="Banner.gif" align="right" height="400" width="400">
 <div>
   ### Olá! Eu sou Matheus Chagas 👋🏾👨🏾‍🎓
   
   # Seja bem vindoª!
   
-  <p>Sou estudante de ciência da computação pela unicarioca e formado em tecnologia da informação pelo senai maracanã.</p>
+  <p>Sou formado em Ciência da Computação pela UniCarioca, com curso técnico em Tecnologia da Informação pelo SENAI Maracanã, e um eterno estudante da área de tecnologia.</p>
 
 </div>
 
